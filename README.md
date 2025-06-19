@@ -31,3 +31,7 @@ This project was created as part of a front-end learning journey and serves as a
 - 🧮 Evaluates complex expressions (like `7+3*2/2`)
 
 ---
+
+## How to Run
+- https://kuldeeproyal-dev.github.io/calculator/
+- copy this link and paste it in your browser
